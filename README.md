@@ -11,6 +11,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/elliepham/threat-hunting-scenario-tor)**
+- **[Threat Hunting Scenario (Operation Overreach)](https://github.com/elliepham/threat-hunt-operation-overreach.md)**
+- **[Threat Hunting Scenario (Another Day, Part Two)](https://github.com/elliepham/threat-hunt-another-day-part-two/blob/main/Nimbus%20Health%20Incident%20Report.md)**
 
 <hr/>
 
